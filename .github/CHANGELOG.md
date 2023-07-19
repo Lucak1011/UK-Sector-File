@@ -1,5 +1,5 @@
 # Changes from release 2023/06 to 2023/07
-1. AIRAC (2307) - Added London city (EGLC) Stand 10L - thanks to @rishab-alt
+1. AIRAC (2307) - Add London city (EGLC) Stand 10L - thanks to @rishab-alt
 
 
 
